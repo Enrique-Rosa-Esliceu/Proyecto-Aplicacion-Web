@@ -1,0 +1,10 @@
+hr {
+    border: none;
+    border-top: 3px solid #000000;
+    margin: 20px 0;
+}
+
+body {
+    margin-left: 150px;
+    margin-right: 150px;
+}
